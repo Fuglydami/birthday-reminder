@@ -89,3 +89,11 @@ p{
   margin-bottom: 1.25rem;
   color: #617d98;
 }
+@media only screen and (max-width:600px){
+  button{
+    width: 12rem
+  }
+  .container {
+    width: 60vw;
+  }
+} 
